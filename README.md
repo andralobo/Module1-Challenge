@@ -19,7 +19,7 @@ For this analysis we modified the data and the “Date Creation Conversion”, �
 For this analysis we used the fundraising Goal value and broke it down by the number of successful, failed and canceled fundraisers for the subcategory plays.  The data was grouped by goal ranges so it was easier to display the results.  The data was filtered to only use Theatre fundraisers so the results would represent only Fundraisers that would be in the same category. The percentages for each of the outcomes were calculated so that the success, failure and canceled rate is better represented. Below is a chart that was created to show the goal ranges and the number and percentage of successful, failed and cancelled fundraisers.
 
 <img src="https://github.com/andralobo/Module1-Challenge/blob/main/Theater_Outcomes_by_Launch_Date_Data.png?raw=true"> 
-<img src="https://github.com/andralobo/Module1-Challenge/blob/main/Theater_Outcomes_by_Launch_Date.png?raw=true"> 
+<img src="https://github.com/andralobo/Module1-Challenge/blob/main/Theater_Outcomes_by_Launch.png?raw=true"> 
 
 ### Analysis of Outcomes Based on Launch Date
 The months with number of successful fundraisers was May and June and those months also had the higher number of failed fundraisers. If you calculate the success rate for those 2 months had the highest success rate overall and that is the trend across all categories not just for Theatre Fundraisers.
